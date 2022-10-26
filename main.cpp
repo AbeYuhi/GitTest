@@ -2,9 +2,7 @@
 
 int main() {
 	
-	printf("Hello worlds!! VisualStudio Git!!");
-
-	printf("Hello worlds!! New Branch!!");
+	printf("third branch\n");
 
 	return 0;
 }
