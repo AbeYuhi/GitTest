@@ -4,7 +4,7 @@ int main() {
 	
 	printf("Hello worlds!! VisualStudio Git!!\n");
 
-	printf("Clone Changed\n");
+	printf("Conflict changed\n");
 
 	return 0;
 }
