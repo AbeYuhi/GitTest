@@ -2,9 +2,9 @@
 
 int main() {
 	
-	printf("Hello worlds!! VisualStudio Git!!");
+	printf("Hello worlds!! VisualStudio Git!!\n");
 
-	printf("Hello worlds!! New Branch changed!!");
+	printf("GitHub Clone changed\n");
 
 	return 0;
 }
